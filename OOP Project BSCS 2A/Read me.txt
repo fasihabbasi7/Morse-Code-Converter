@@ -1,0 +1,2 @@
+This is a group project of oop c++ made by Fasih Abbasi and Talha Azhar of class BS CS 2A.
+The project is Morse Code Converter
